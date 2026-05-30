@@ -1,7 +1,7 @@
 {
   "version_code": 2,
   "version_name": "1.1",
-  "variant": "lite",
-  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.1/app-lite_no-release.apk",
+  "variant": "full",
+  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.1Full/app-full_autofill-release.apk",
   "message": "Новая версия"
 }
