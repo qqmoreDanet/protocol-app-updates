@@ -1,7 +1,7 @@
 {
-  "version_code": 10,
-  "version_name": "1.10",
+  "version_code": 11,
+  "version_name": "1.11",
   "variant": "lite",
-  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.10/ProtocolsRoadMarking-lite-1.10.apk",
-  "message": "Добавлена 03-ГМС, 06-Ю26, 05-СТН"
+  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.11/ProtocolsRoadMarking-lite-1.11.apk",
+  "message": "Добавлен экспорт по отдельности при выборе всех, добавлена 03-Ц"
 }
