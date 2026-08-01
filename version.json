@@ -1,7 +1,7 @@
 {
-  "version_code": 19,
-  "version_name": "1.19a",
+  "version_code": 20,
+  "version_name": "1.20",
   "variant": "lite",
-  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.19a/ProtocolsRoadMarking-lite-1.19a.apk",
-  "message": "Внесены все последние заявки после 15.07.2026 и че-то еще..."
+  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/1.20/ProtocolsRoadMarking-lite-1.20.apk",
+  "message": "Перенос кнопок выполнено в полном объёме/выполнено в неполном объёме на последнюю страницу. Удаление вкладки шаблон и любого его упоминания на других страницах. Фикс багов."
 }
