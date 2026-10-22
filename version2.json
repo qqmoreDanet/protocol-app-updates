@@ -1,7 +1,7 @@
 {
-  "version_code": 25,
-  "version_name": "1.25",
+  "version_code": 26,
+  "version_name": "1.26",
   "variant": "full",
-  "apk_url": "",
-  "message": "Новое приложение «Протоколы ГБУ» (новый ключ подписи)."
+  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.26/ProtocolsRoadMarking-full-1.26.apk",
+  "message": "Новый интерфейс: шаги с названиями, кнопки внизу экрана, замеры таблицей, лента фото. Автозаполнение пересчитывает строку при смене ПР."
 }
