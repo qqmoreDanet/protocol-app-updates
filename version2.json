@@ -1,7 +1,7 @@
 {
-  "version_code": 28,
-  "version_name": "1.28",
+  "version_code": 29,
+  "version_name": "1.29",
   "variant": "full",
-  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.28/ProtocolsRoadMarking-full-1.28.apk",
-  "message": "Отправка актов и файлов на файловый сервер: выбор заявки по номеру из акта, общий акт выезда, быстрая загрузка видео с докачкой."
+  "apk_url": "https://github.com/qqmoreDanet/protocol-app-updates/releases/download/v1.29/ProtocolsRoadMarking-full-1.29.apk",
+  "message": "Новые заявки: 09-Ц (Центр и ТиНАО) и 10-СТ/Н (Северные территории)."
 }
